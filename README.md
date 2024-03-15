@@ -1,4 +1,6 @@
-### Hi there 👋
+## Saluton!
+
+[![Hyonimix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyonimix&show_icons=true&theme=dark&bg_color=75,336600,56CCF2&title_color=ffffff&text_color=ffffff)](https://github.com/Hyonimix/github-readme-stats)
 
 <!--
 **Hyonimix/Hyonimix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
