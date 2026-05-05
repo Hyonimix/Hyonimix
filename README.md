@@ -9,7 +9,3 @@ Exploring JS / Node.js on **GitHub**
 ## E-Mail
 [hyonimix@gmail.com](mailto:hyonimix@gmail.com) <br>
 I will reply you ASAP 👍
-
-## GitHub Stats
-
-[![Hyonimix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyonimix&show_icons=true&theme=dark&bg_color=75,336600,56CCF2&title_color=ffffff&text_color=ffffff)](https://github.com/Hyonimix/github-readme-stats)
